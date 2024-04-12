@@ -1,6 +1,6 @@
 import React from "react";
 import { MantineProvider } from "@mantine/core";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Navbar from "./components/static/Navbar";
 import Home from "./components/homepage/Title";
 import NewYork from "./components/homepage/NewYork";
@@ -25,6 +25,8 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route element={<General />}>
+              <Route path="/" element={<Navigate to="/home" />} />
+
               <Route path="/home" element={<Home />} />
               <Route path="/newyork" element={<NewYork />} />
               <Route path="/portland" element={<Portland />} />
