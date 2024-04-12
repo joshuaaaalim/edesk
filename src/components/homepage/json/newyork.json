@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Athena Weissnat",
+    "address": "123 Main St",
+    "city": "New York",
+    "pinCode": "12345",
+    "country": "USA"
+  },
+  {
+    "name": "Deangelo Runolfsson",
+    "address": "456 Elm St",
+    "city": "New York",
+    "pinCode": "67890",
+    "country": "USA"
+  },
+  {
+    "name": "Eleanor Smith",
+    "address": "789 Oak St",
+    "city": "New York",
+    "pinCode": "54321",
+    "country": "USA"
+  },
+  {
+    "name": "Jack Thompson",
+    "address": "321 Pine St",
+    "city": "New York",
+    "pinCode": "98765",
+    "country": "USA"
+  },
+  {
+    "name": "Sophia Garcia",
+    "address": "654 Maple St",
+    "city": "New York",
+    "pinCode": "13579",
+    "country": "USA"
+  },
+  {
+    "name": "Liam Johnson",
+    "address": "987 Cedar St",
+    "city": "New York",
+    "pinCode": "24680",
+    "country": "USA"
+  },
+  {
+    "name": "Isabella Martinez",
+    "address": "159 Walnut St",
+    "city": "New York",
+    "pinCode": "86420",
+    "country": "USA"
+  },
+  {
+    "name": "Mason Brown",
+    "address": "753 Birch St",
+    "city": "New York",
+    "pinCode": "10293",
+    "country": "USA"
+  }
+]

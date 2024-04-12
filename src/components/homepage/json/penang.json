@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Lim Wei Jie",
+      "address": "10 Lebuh Pantai",
+      "city": "Penang",
+      "pinCode": "10300",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Tan Mei Ling",
+      "address": "20 Lebuh Light",
+      "city": "Penang",
+      "pinCode": "10200",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Wong Chun Kit",
+      "address": "30 Jalan Masjid Kapitan Keling",
+      "city": "Penang",
+      "pinCode": "10250",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Goh Siew Yee",
+      "address": "40 Lebuh Farquhar",
+      "city": "Penang",
+      "pinCode": "10220",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Lee Hock Beng",
+      "address": "50 Lebuh Armenian",
+      "city": "Penang",
+      "pinCode": "10210",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Chow Ah Kow",
+      "address": "60 Jalan Penang",
+      "city": "Penang",
+      "pinCode": "10000",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Ng Siew Keng",
+      "address": "70 Jalan Burma",
+      "city": "Penang",
+      "pinCode": "10050",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Lim Ah Huat",
+      "address": "80 Lebuh Chulia",
+      "city": "Penang",
+      "pinCode": "10100",
+      "country": "Malaysia"
+    }
+  ]
+  

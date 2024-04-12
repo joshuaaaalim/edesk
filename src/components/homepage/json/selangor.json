@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Lim Wei Ting",
+      "address": "10 Jalan SS 15/4",
+      "city": "Selangor",
+      "pinCode": "47500",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Tan Yee Ling",
+      "address": "20 Jalan USJ 1/1B",
+      "city": "Selangor",
+      "pinCode": "47600",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Wong Chun Kit",
+      "address": "30 Jalan SS 21/1A",
+      "city": "Selangor",
+      "pinCode": "47400",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Goh Mei Ling",
+      "address": "40 Jalan Kebun Klang",
+      "city": "Selangor",
+      "pinCode": "42450",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Lee Siew Yee",
+      "address": "50 Jalan Bunga Raya",
+      "city": "Selangor",
+      "pinCode": "40300",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Chow Ah Kow",
+      "address": "60 Jalan Merpati",
+      "city": "Selangor",
+      "pinCode": "45000",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Ng Mei Keng",
+      "address": "70 Jalan Pandan Indah 1/23",
+      "city": "Selangor",
+      "pinCode": "55100",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Lim Ah Beng",
+      "address": "80 Jalan Tengah",
+      "city": "Selangor",
+      "pinCode": "47000",
+      "country": "Malaysia"
+    }
+  ]
+  

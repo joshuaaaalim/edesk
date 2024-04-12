@@ -1,0 +1,62 @@
+.homeContainer {
+  display: flex;
+  flex: 1;
+  overflow-x: auto;
+}
+
+.tableContainer {
+  display: flex;
+  flex: 1;
+  overflow: auto;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.viewbutton {
+  cursor: pointer;
+  color: black;
+  border: 1px solid black;
+  border-radius: var(--mantine-radius-sm);
+}
+
+.editbutton {
+  cursor: pointer;
+  color: #ffab09;
+  border: 1px solid #ffab09;
+  border-radius: var(--mantine-radius-sm);
+}
+
+.trashbutton {
+  cursor: pointer;
+  color: red;
+  border: 1px solid red;
+  border-radius: var(--mantine-radius-sm);
+}
+
+.parentContainer {
+  display: flex;
+  flex-grow: 1;
+}
+
+.control {
+  width: 100%;
+  padding: var(--mantine-spacing-xs) var(--mantine-spacing-md);
+}
+
+.icon {
+  width: rem(21px);
+  height: rem(21px);
+  border-radius: rem(21px);
+}
+
+.title {
+  align-content: center;
+  padding-left: 250px;
+}
+
+/* Modal */
+
+.buttonContainer {
+  padding-top: 20px;
+}

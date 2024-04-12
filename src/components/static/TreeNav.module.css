@@ -1,0 +1,56 @@
+.link {
+  display: block;
+  text-decoration: none;
+  color: var(--mantine-color-text);
+  line-height: 1.2;
+  font-size: var(--mantine-font-size-lg);
+  font-weight: bold;
+  padding: var(--mantine-spacing-xs) var(--mantine-spacing-lg);
+  border-top-right-radius: var(--mantine-radius-sm);
+  border-bottom-right-radius: var(--mantine-radius-sm);
+  border-left: rem(1px) solid
+    light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+  transition: background-color 0.2s ease;
+  padding-top: 20px;
+}
+
+.linkActive {
+  border-left-color: light-dark(
+    var(--mantine-color-blue-6),
+    var(--mantine-color-blue-4)
+  );
+  color: light-dark(var(--mantine-color-blue-6), var(--mantine-color-blue-4));
+  background-color: var(--mantine-color-blue-light) !important;
+}
+
+.dropdown {
+  margin-top: var(--mantine-spacing-xs);
+  display: block;
+}
+
+.subLink {
+  display: block;
+  text-decoration: none;
+  color: var(--mantine-color-text);
+  line-height: 1.2;
+  font-size: var(--mantine-font-size-sm);
+  padding: var(--mantine-spacing-xs) var(--mantine-spacing-lg);
+  border-top-left-radius: var(--mantine-radius-sm);
+  border-bottom-left-radius: var(--mantine-radius-sm);
+  border-left: rem(1px) solid
+    light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+  transition: background-color 0.2s ease;
+  padding-top: 20px;
+}
+
+.subLink:hover {
+  background-color: var(--mantine-color-gray-1);
+}
+
+.treeNavContainer {
+  min-height: 100vh;
+  max-height: 200vh;
+
+  min-width: 230px;
+  max-width: 230px;
+}

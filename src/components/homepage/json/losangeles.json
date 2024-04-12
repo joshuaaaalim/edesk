@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Adam Rodriguez",
+    "address": "123 Hollywood Blvd",
+    "city": "Los Angeles",
+    "pinCode": "90011",
+    "country": "USA"
+  },
+  {
+    "name": "Eva Martinez",
+    "address": "456 Sunset Ave",
+    "city": "Los Angeles",
+    "pinCode": "90022",
+    "country": "USA"
+  },
+  {
+    "name": "Carlos Garcia",
+    "address": "789 Vine St",
+    "city": "Los Angeles",
+    "pinCode": "90113",
+    "country": "USA"
+  },
+  {
+    "name": "Isabella Hernandez",
+    "address": "101 Santa Monica Blvd",
+    "city": "Los Angeles",
+    "pinCode": "90224",
+    "country": "USA"
+  },
+  {
+    "name": "Mateo Lopez",
+    "address": "111 Rodeo Dr",
+    "city": "Los Angeles",
+    "pinCode": "90335",
+    "country": "USA"
+  },
+  {
+    "name": "Sofia Perez",
+    "address": "222 Melrose Ave",
+    "city": "Los Angeles",
+    "pinCode": "90446",
+    "country": "USA"
+  },
+  {
+    "name": "Diego Sanchez",
+    "address": "333 Wilshire Blvd",
+    "city": "Los Angeles",
+    "pinCode": "90557",
+    "country": "USA"
+  },
+  {
+    "name": "Camila Rivera",
+    "address": "444 Beverly Blvd",
+    "city": "Los Angeles",
+    "pinCode": "90668",
+    "country": "USA"
+  }
+]

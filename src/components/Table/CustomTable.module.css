@@ -1,0 +1,23 @@
+.wholeTable {
+  background-color: white;
+  border: 1px solid lightgray;
+  box-shadow: 5px 5px 5px lightgray;
+  padding: 0 20px;
+}
+
+.tableHeaderRow {
+  border-bottom: 2px solid var(--mantine-color-black); /* Adjust the color as needed */
+}
+
+.tableNumberCell {
+  width: 5%;
+}
+
+.tableShowCell {
+  width: 20%;
+}
+
+.actionButtons {
+  display: flex;
+  gap: var(--mantine-spacing-sm);
+}

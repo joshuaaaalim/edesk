@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Muhammad Ali",
+      "address": "10 Jalan Bukit Bintang",
+      "city": "Kuala Lumpur",
+      "pinCode": "50000",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Nurul Aziz",
+      "address": "20 Jalan Ampang",
+      "city": "Kuala Lumpur",
+      "pinCode": "50050",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Ahmad bin Ismail",
+      "address": "30 Jalan Sultan Ismail",
+      "city": "Kuala Lumpur",
+      "pinCode": "50100",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Siti binti Rahman",
+      "address": "40 Jalan Raja Chulan",
+      "city": "Kuala Lumpur",
+      "pinCode": "50200",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Mohammad Lee",
+      "address": "50 Jalan Tun Razak",
+      "city": "Kuala Lumpur",
+      "pinCode": "50300",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Fatimah Abdullah",
+      "address": "60 Jalan Pudu",
+      "city": "Kuala Lumpur",
+      "pinCode": "50400",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Hassan bin Hussein",
+      "address": "70 Jalan Loke Yew",
+      "city": "Kuala Lumpur",
+      "pinCode": "50450",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Aisha Mohamad",
+      "address": "80 Jalan Imbi",
+      "city": "Kuala Lumpur",
+      "pinCode": "50500",
+      "country": "Malaysia"
+    }
+  ]
+  

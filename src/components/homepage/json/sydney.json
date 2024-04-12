@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Jack Smith",
+      "address": "10 George St",
+      "city": "Sydney",
+      "pinCode": "2000",
+      "country": "Australia"
+    },
+    {
+      "name": "Emily Brown",
+      "address": "20 Pitt St",
+      "city": "Sydney",
+      "pinCode": "2001",
+      "country": "Australia"
+    },
+    {
+      "name": "William Jones",
+      "address": "30 King St",
+      "city": "Sydney",
+      "pinCode": "2002",
+      "country": "Australia"
+    },
+    {
+      "name": "Olivia Wilson",
+      "address": "40 Elizabeth St",
+      "city": "Sydney",
+      "pinCode": "2003",
+      "country": "Australia"
+    },
+    {
+      "name": "Noah Taylor",
+      "address": "50 Oxford St",
+      "city": "Sydney",
+      "pinCode": "2004",
+      "country": "Australia"
+    },
+    {
+      "name": "Ava Johnson",
+      "address": "60 Bondi Rd",
+      "city": "Sydney",
+      "pinCode": "2005",
+      "country": "Australia"
+    },
+    {
+      "name": "James Wilson",
+      "address": "70 Darlinghurst Rd",
+      "city": "Sydney",
+      "pinCode": "2006",
+      "country": "Australia"
+    },
+    {
+      "name": "Isabella Thomas",
+      "address": "80 Newtown St",
+      "city": "Sydney",
+      "pinCode": "2007",
+      "country": "Australia"
+    }
+  ]
+  

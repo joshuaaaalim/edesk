@@ -1,0 +1,59 @@
+[
+    {
+      "name": "John Doe",
+      "address": "456 Oak St",
+      "city": "Portland",
+      "pinCode": "54321",
+      "country": "USA"
+    },
+    {
+      "name": "Jane Smith",
+      "address": "789 Elm St",
+      "city": "Portland",
+      "pinCode": "67890",
+      "country": "USA"
+    },
+    {
+      "name": "David Johnson",
+      "address": "101 Pine St",
+      "city": "Portland",
+      "pinCode": "24680",
+      "country": "USA"
+    },
+    {
+      "name": "Emily Davis",
+      "address": "111 Maple St",
+      "city": "Portland",
+      "pinCode": "13579",
+      "country": "USA"
+    },
+    {
+      "name": "Michael Brown",
+      "address": "222 Cedar St",
+      "city": "Portland",
+      "pinCode": "97531",
+      "country": "USA"
+    },
+    {
+      "name": "Sarah Wilson",
+      "address": "333 Birch St",
+      "city": "Portland",
+      "pinCode": "80246",
+      "country": "USA"
+    },
+    {
+      "name": "Christopher Lee",
+      "address": "444 Walnut St",
+      "city": "Portland",
+      "pinCode": "36981",
+      "country": "USA"
+    },
+    {
+      "name": "Jessica Taylor",
+      "address": "555 Pineapple St",
+      "city": "Portland",
+      "pinCode": "12345",
+      "country": "USA"
+    }
+  ]
+  

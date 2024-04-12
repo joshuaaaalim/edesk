@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Lucas Smith",
+      "address": "10 St Georges Terrace",
+      "city": "Perth",
+      "pinCode": "6000",
+      "country": "Australia"
+    },
+    {
+      "name": "Mia Brown",
+      "address": "20 Hay St",
+      "city": "Perth",
+      "pinCode": "6001",
+      "country": "Australia"
+    },
+    {
+      "name": "Ethan Jones",
+      "address": "30 Murray St",
+      "city": "Perth",
+      "pinCode": "6002",
+      "country": "Australia"
+    },
+    {
+      "name": "Harper Wilson",
+      "address": "40 Barrack St",
+      "city": "Perth",
+      "pinCode": "6003",
+      "country": "Australia"
+    },
+    {
+      "name": "Alexander Taylor",
+      "address": "50 Wellington St",
+      "city": "Perth",
+      "pinCode": "6004",
+      "country": "Australia"
+    },
+    {
+      "name": "Sophia Johnson",
+      "address": "60 William St",
+      "city": "Perth",
+      "pinCode": "6005",
+      "country": "Australia"
+    },
+    {
+      "name": "Daniel Wilson",
+      "address": "70 Stirling St",
+      "city": "Perth",
+      "pinCode": "6006",
+      "country": "Australia"
+    },
+    {
+      "name": "Ava Thomas",
+      "address": "80 Beaufort St",
+      "city": "Perth",
+      "pinCode": "6007",
+      "country": "Australia"
+    }
+  ]
+  
